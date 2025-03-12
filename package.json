@@ -1,0 +1,24 @@
+{
+  "name": "cg-expressjs-coursera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisioGwaan/cg-expressjs-coursera.git"
+  },
+  "keywords": [],
+  "author": "Weixi Guan (Chrisio Gwaan)",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ChrisioGwaan/cg-expressjs-coursera/issues"
+  },
+  "homepage": "https://github.com/ChrisioGwaan/cg-expressjs-coursera#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
